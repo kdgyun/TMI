@@ -91,7 +91,8 @@
 
 
 </br></br></br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdgyun&count_private=true&show_icons=true&bg_color=f8f8f8&border_color=e4e2e2&icon_color=32BEBE&title_color=FF9E9B&text_color=666666)
+<h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
+<div style="display: flex; align-items: center; justify-content: center;">
 
 
 <!--
@@ -110,14 +111,9 @@
 -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdgyun&langs_count=10&layout=compact&card_width=445&bg_color=f8f8f8&border_color=e4e2e2&icon_color=32BEBE&title_color=FF9E9B&text_color=666666)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=kdgyun&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/kdgyun)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=kdgyun&theme=tokyonight&hide_border=true)](https://github.com/kdgyun)
 
-
-
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=78ffbb&reversal=true&height=230&&section=footer&fontSize=60&fontColor=666666" align="middle"/><div style="float: left;">
 
 <br/><br/>
 
