@@ -112,10 +112,10 @@
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdgyun&theme=tokyonight&hide_border=false)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdgyun&theme=tokyonight )
  </br>
-[![](https://github-readme-stats.vercel.app/api?username=kdgyun&show_icons=true&theme=tokyonight&hide_border=false)](https://github.com/kdgyun)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=kdgyun&theme=tokyonight&hide_border=false)](https://github.com/kdgyun)
+[![](https://github-readme-stats.vercel.app/api?username=kdgyun&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/kdgyun)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=kdgyun&hide_border=true&theme=tokyonight)](https://github.com/kdgyun)
 
 
 
