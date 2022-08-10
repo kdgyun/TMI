@@ -1,7 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=ff6468&height=220&section=header&text=Hello!&fontSize=60&animation=fadeIn&fontAlignY=32&descSize=40&fontColor=fefefe&desc=Thanks%20for%20Visiting%20:\)&descAlignY=55&descAlign=50)
 <br/>
-<div style="position:relative; left:0; top:0;">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff6468&height=220&&section=header&text=Hello! &fontSize=60&fontAlignY=32&fontColor=fefefe&desc=Thanks for Visiting :) & &descSize=40&descAlignY=55" style="position:relative; top:0 align="middle"/>
-</div>
 <br/>
 <br/><br/><br/>
 
