@@ -112,11 +112,15 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdgyun&theme=tokyonight )
  </br>
-[![](https://github-readme-stats.vercel.app/api?username=kdgyun&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/kdgyun)
+
+
+![](https://github-readme-stats.vercel.app/api?username=kdgyun&theme=tokyonight&show_icons=true&hide_border=true)
+
+
 [![](https://github-readme-streak-stats.herokuapp.com/?user=kdgyun&hide_border=true&theme=tokyonight)](https://github.com/kdgyun)
 
 
-
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=kdgyun&layout=compact&theme=tokyonight)](https://github.com/kdgyun)
 
 
 
